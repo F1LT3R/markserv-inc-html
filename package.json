@@ -1,0 +1,19 @@
+{
+  "name": "markserv-inc-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "html.processor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/f1lt3r/markserv-inc-html.git"
+  },
+  "author": "f1lt3r",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/f1lt3r/markserv-inc-html/issues"
+  },
+  "homepage": "https://github.com/f1lt3r/markserv-inc-html#readme"
+}
